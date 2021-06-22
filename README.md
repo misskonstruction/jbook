@@ -4,9 +4,9 @@
 
 ## by MissKonstruction
 
-<h2>Project Objectives:</h2>
+<h3>Project Objectives:</h3>
 
-To master the use of React, Redux, and Typescript together
+<ul>To master the use of React, Redux, and Typescript together
 
 To build a complex and interesting app using a package-based architecture
 
@@ -22,6 +22,6 @@ To leverage Web Assembly to run a code bundler directly in the browser at lightn
 
 To use the internals of Redux to manually test out business logic
 
-To deploy app to the NPM registry, where others can easily use it
+To deploy app to the NPM registry, where others can easily use it</ul>
 
 
