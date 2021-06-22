@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# My Interactive Browser-Based Coding Environment
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
