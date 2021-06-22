@@ -4,7 +4,7 @@
 
 ## by MissKonstruction
 
-###Project Objectives:
+<h2>Project Objectives:</h2>
 
 To master the use of React, Redux, and Typescript together
 
