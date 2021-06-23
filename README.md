@@ -10,7 +10,7 @@ To master the use of React, Redux, and Typescript together
 
 To build a complex and interesting app using a package-based architecture
 
-To fully understand the challenges of in-browser code transpiling and and processing
+To fully understand the challenges of in-browser code transpiling and processing
 
 To secure the app against potential security exploits
 
