@@ -11,8 +11,8 @@ const bundle =  async (rawCode: string) => {
       });
     }
 
-    try{
-    const result = await service.build({
+    try {
+      const result = await service.build({
         entryPoints: ['index.js'],
         bundle: true,
         write: false,
@@ -22,17 +22,17 @@ const bundle =  async (rawCode: string) => {
           global: 'window',
         },
       });
-      return{
+  
+      return {
         code: result.outputFiles[0].text,
-        err: ''
-      } 
-    } catch(err){
-      return{
-        code: '',
-        err: err.message
+        err: '',
       };
-    }  
-      
-};
-
-export default bundle;
+    } catch (err) {
+      return {
+        code: '',
+        err: err.message,
+      };
+    }
+  };
+  
+  export default bundle;
